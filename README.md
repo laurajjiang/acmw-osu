@@ -4,4 +4,4 @@ This is a website representing the Oregon State University club, the Association
 
 We meet in KEC 1005 on Thursdays from 5:30 - 6:30 PM on weeks 2, 4, 5, 8, and 10. 
 
-View the website here: .
+View the website here: https://acmw-osu.herokuapp.com/.
