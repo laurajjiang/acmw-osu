@@ -27,6 +27,7 @@ Our current vice-president is <a href={`mailto:jianglau@oregonstate.edu`}>Laura 
 		<section className="text">
 			<li>Resumes and LinkedIn</li>
 			<li>Confidence and Technical Questions</li>
+			<li>Breakout Q&A With Officers</li>
 			<br/><br/>
 		</section>
       </header>
